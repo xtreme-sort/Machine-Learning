@@ -1,1 +1,12 @@
-
+SUPERVISED ML
+• Linear Regression
+  - Single - variable
+  - Multi - variable
+  - Regularization
+• Logistic Regression
+• KNN
+• Decision Trees
+• Random Forests
+• SVMs
+• Neural Networks
+  -
